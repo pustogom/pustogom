@@ -1,9 +1,9 @@
 ## Hi there 👋
 My name is Mischa and I am a recent graduate of the Business Information and Technology program from RRC Polytech. 
 
-- 🔭 I’m currently working on building light, clean utility apps to get back into the rhythm of daily commits and continuous integration.
+- 🔭 I’m currently working on building small-scale Python projects designed to handle data manipulation and sync local application data with an SQL database.
 - 🌱 I’m currently learning how to use Python for backend development, specifically handling data manipulation and integrating databases into my projects.
-- 🤔 I’m looking for help with code reviews and feedback on my public repositories to help me transition from 'functional' code to 'industry-standard' code.
+- 🤔 I’m looking for help with code reviews and feedback on my public repositories to help me transition from functional code to industry-standard code.
 <!--
 **pustogom/pustogom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
